@@ -2,40 +2,39 @@
 
 A backend application built using **Java, Spring Boot, Spring Data JPA, and PostgreSQL**.
 
-About the Project
+**About the Project**
 
 The Student Management System is designed to manage student records through RESTful APIs. It supports CRUD operations and uses a layered architecture to organize the backend code.
 
 **✨Features**
 
-- Create student records
-- Retrieve student records
-- Update student records
-- Delete student records
-- JSON request and response handling
-- PostgreSQL database integration
+- **Create** student records
+- **Retrieve** student records
+- **Update** student records
+- **Delete** student records
+- **JSON** **request** and **response** handling
+- **PostgreSQL** database **integration**
 
 **🛠️Technologies Used**
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- Maven
-- REST APIs
-- Postman
+- **Language**: Java
+- **Framework**: Spring Boot
+- **ORM**: Spring Data JPA, Hibernate
+- **Database**: PostgreSQL
+- **Build Tool**: Maven
+- **API Type**: REST APIs
+- **API Testing**: Postman
 
 **🏗️Project Architecture**
 
-- Controller: Handles HTTP requests.
-- Service: Contains business logic.
-- Repository: Manages database operations.
-- Entity: Represents database entities.
+- **Controller**: Handles HTTP requests.
+- **Service**: Contains business logic.
+- **Repository**: Manages database operations.
+- **Entity**: Represents database entities.
 
 **🗄️Database**
 
-PostgreSQL is used for storing and managing data. The project is designed to work with student, department, and course records.
+**PostgreSQL** is used for storing and managing data. The project is designed to work with student, department, and course records.
 
 **⚙️How to Run**
 
